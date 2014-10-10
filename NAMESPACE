@@ -1,0 +1,13 @@
+exportClasses("hieroClass")
+export(HierO)
+export(calcPower)
+export(delta2)
+
+import(methods)
+import(rneos)
+import(XML)
+import(XMLRPC)
+import(bitops)
+import(RCurl)
+import(tcltk)
+import(tcltk2)
